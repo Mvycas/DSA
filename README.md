@@ -2,4 +2,4 @@
 
 Below are some blog posts that provide more detailed notes and examples:
 
-[Arrays: Insertion Fun](./arrays.mdx)
+[Arrays: Insertion Fun](./Arrays/arrays.mdx)
