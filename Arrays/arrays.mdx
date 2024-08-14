@@ -34,12 +34,17 @@ Now imagine, big fixed size array of 550 million slots. It should take a long ti
 Therefore in c# "CSharpArrays" I am trying to simulate exactly that, and see how long it would take on my computer. 
 This, however, does not take into consideration multiple consequitive insertion operations
 
-My pc parameters: 
+# Test Machine
 
-Intel i9-10900k 
-32gb 3200mhz ram
+Running the test in the C# "CSharpArrays.cs" was conducted on a computer with the following parameters:
 
-It took 1.85 seconds to insert 99999 in array of 550 million at index 10;
-It took 3.48 seconds to insert 99999 in array of 1 billion at index 10;
+- CPU: Intel i9-10900k 
+- RAM: 32 GB 3200 MHz DDR4 CL16
+
+# Findings
+
+- It took 1.85 seconds to insert 99999 in array of 550 million at index 10;
+
+- It took 3.48 seconds to insert 99999 in array of 1 billion at index 10;
 
 
