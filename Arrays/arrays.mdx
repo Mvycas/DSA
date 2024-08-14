@@ -16,7 +16,7 @@ Although the time complexity depends on the size of the array, and
 where we are actually inserting the new element - at the beginning or at the end of the array. 
 Well, there is no doubt that the worst case scenario occurs at the head of the array.
 
-With the c# script I tried to simulate how long it would take to insert an element near the beginning of the array.
+With the c# code I tried to simulate how long it would take to insert an element near the beginning of the array.
 First of all, the array (if not dynamic) cannot be extended. The size you initialy allocated during the creation - 
 is the maximum number of elements it can hold. This is because at the machine level, a continous block (without any gaps) of memory for the size of the array has to be reserved. 
 So system will reserve n bytes of storage for every item in the array (where n depends on the data type). For example, if the array is of size 1000 and it is an int array, it would reserve 4 bytes * 1000. 
