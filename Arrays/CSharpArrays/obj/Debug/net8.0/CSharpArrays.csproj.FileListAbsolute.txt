@@ -1,0 +1,15 @@
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.AssemblyInfoInputs.cache
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.AssemblyInfo.cs
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.csproj.CoreCompileInputs.cache
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.sourcelink.json
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/bin/Debug/net8.0/CSharpArrays
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/bin/Debug/net8.0/CSharpArrays.deps.json
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/bin/Debug/net8.0/CSharpArrays.runtimeconfig.json
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/bin/Debug/net8.0/CSharpArrays.dll
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/bin/Debug/net8.0/CSharpArrays.pdb
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.dll
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/refint/CSharpArrays.dll
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.pdb
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/CSharpArrays.genruntimeconfig.cache
+/Users/martynas/Desktop/DSA/Arrays/CSharpArrays/obj/Debug/net8.0/ref/CSharpArrays.dll

@@ -1,0 +1,45 @@
+---
+title: Notes on Arrays
+slug: notes-on-arrays
+date: 2024-08-14
+draft: false
+author: Martynas V.
+description: "Just me having fun following Google's DSA course and diving deep into data structures and algorithms."
+---
+
+# Understanding arrays: Insertion of an element in a fixed array
+
+In theory the insertion operation of a fixed array 
+is expensive, and regarding time complexity it should resolve to O(n), where n is the size of the array - 
+worst case scenarion. It is due to the fact that all elements after the insertion point has to be shifted to the right. 
+Although the time complexity depends on the size of the array, and 
+where we are actually inserting the new element - at the beginning or at the end of the array. 
+Well, there is no doubt that the worst case scenario occurs at the head of the array.
+
+With the c# script I tried to simulate how long it would take to insert an element near the beginning of the array.
+First of all, the array (if not dynamic) cannot be extended. The size you initialy allocated during the creation - 
+is the maximum number of elements it can hold. This is because at the machine level, a continous block (without any gaps) of memory for the size of the array has to be reserved. 
+So system will reserve n bytes of storage for every item in the array (where n depends on the data type). For example, if the array is of size 1000 and it is an int array, it would reserve 4 bytes * 1000. 
+That equals to 4000 bytes of contignous memory reserved.
+
+"Contiguous memory blocks are required because arrays rely on direct indexing, which depends on the array elements being stored sequentially in memory." 
+
+When we want to insert a new element into a fixed array, the array itself does not automatically resize. If the array is full, 
+we need to create a new array (let's say 2x bigger than the initial one)
+and copy all the elements from the initial array to the new one. 
+In order to insert the new element at the desired index (insertion point), the elements from the insertion point must be shifted to the right. Only then can the new element be inserted at the desired index (insertion point).
+This is for example how dynamic arrays like `List<T>` works behind the scenes. Or at least I believe how it should work... A very tedious process.
+
+Now imagine, big fixed size array of 550 million slots. It should take a long time to insert a new element.
+Therefore in c# "CSharpArrays" I am trying to simulate exactly that, and see how long it would take on my computer. 
+This, however, does not take into consideration multiple consequitive insertion operations
+
+My pc parameters: 
+
+Intel i9-10900k 
+32gb 3200mhz ram
+
+It took 1.85 seconds to insert 99999 in array of 550 million at index 10;
+It took 3.48 seconds to insert 99999 in array of 1 billion at index 10;
+
+
