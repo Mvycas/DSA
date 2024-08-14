@@ -20,7 +20,7 @@ With the c# code I tried to simulate how long it would take to insert an element
 First of all, the array (if not dynamic) cannot be extended. The size you initialy allocated during the creation - 
 is the maximum number of elements it can hold. This is because at the machine level, a continous block (without any gaps) of memory for the size of the array has to be reserved. 
 So system will reserve n bytes of storage for every item in the array (where n depends on the data type). For example, if the array is of size 1000 and it is an int array, it would reserve 4 bytes * 1000. 
-That equals to 4000 bytes of contignous memory reserved.
+That equals to 4000 bytes of contiguous memory reserved.
 
 "Contiguous memory blocks are required because arrays rely on direct indexing, which depends on the array elements being stored sequentially in memory." 
 
