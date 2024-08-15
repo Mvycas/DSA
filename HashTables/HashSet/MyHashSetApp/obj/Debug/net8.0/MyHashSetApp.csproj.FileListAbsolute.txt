@@ -1,0 +1,15 @@
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/bin/Debug/net8.0/MyHashSetApp
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/bin/Debug/net8.0/MyHashSetApp.deps.json
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/bin/Debug/net8.0/MyHashSetApp.runtimeconfig.json
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/bin/Debug/net8.0/MyHashSetApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/bin/Debug/net8.0/MyHashSetApp.pdb
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.AssemblyInfoInputs.cache
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.AssemblyInfo.cs
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.csproj.CoreCompileInputs.cache
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.sourcelink.json
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/refint/MyHashSetApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.pdb
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/MyHashSetApp.genruntimeconfig.cache
+/Users/martynas/Desktop/DSA/HashTables/HashSet/MyHashSetApp/obj/Debug/net8.0/ref/MyHashSetApp.dll
