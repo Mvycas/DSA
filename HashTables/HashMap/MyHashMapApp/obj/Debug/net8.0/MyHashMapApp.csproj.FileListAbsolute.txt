@@ -1,0 +1,15 @@
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/bin/Debug/net8.0/MyHashMapApp
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/bin/Debug/net8.0/MyHashMapApp.deps.json
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/bin/Debug/net8.0/MyHashMapApp.runtimeconfig.json
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/bin/Debug/net8.0/MyHashMapApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/bin/Debug/net8.0/MyHashMapApp.pdb
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.AssemblyInfoInputs.cache
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.AssemblyInfo.cs
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.csproj.CoreCompileInputs.cache
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.sourcelink.json
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/refint/MyHashMapApp.dll
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.pdb
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/MyHashMapApp.genruntimeconfig.cache
+/Users/martynas/Desktop/DSA/HashTables/HashMap/MyHashMapApp/obj/Debug/net8.0/ref/MyHashMapApp.dll
