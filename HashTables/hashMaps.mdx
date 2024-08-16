@@ -62,13 +62,13 @@ When a collision appears once at specific index it is very likely that it will a
 In a bad hash map implementation this may lead to Clustering, further degrading hash map performance.
 Clustering is a pehnomenon where multiple keys end up being placed in the same or adjacent buckets.
 
-Methods to resolve it usually is:
 
-- Linear probing
+## **Linear probing**
 
 If a key hashes to an index that is already occupied, the key-value pair is placed in the next available position (bucket).
+Drawback: Leads to clustering.
 
-- Separate chaining
+## **Separate chaining**
 
 In separate chaining the hash map is actually an array of pointers to linked lists (linked list at each index/bucket of the internal array).
 When collision occurs the key-value pair is inserted at the HEAD (first element) of the appropriate linked list.
