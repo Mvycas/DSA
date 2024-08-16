@@ -2,5 +2,6 @@
 
 Below are some blog posts that provide more detailed notes and examples:
 
-[Arrays: Insertion](./Arrays/arrays.mdx)
-[Understanding Data Structures: Hash maps](./HashTables/hashMaps.mdx)
+- [Arrays: Insertion](./Arrays/arrays.mdx)
+
+- [Hash maps: Understanding Efficient Data Structures](./HashTables/hashMaps.mdx)
