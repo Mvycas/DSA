@@ -4,4 +4,4 @@ Below are some blog posts that provide more detailed notes and examples:
 
 - [Arrays: Insertion](./Arrays/arrays.mdx)
 
-- [Hash maps: Understanding Efficient Data Structures](./HashTables/hashMaps.mdx)
+- [Hash Maps & Sets: Understanding Efficient Data Structures](./HashTables/hashMapsAndSets.mdx)
