@@ -95,4 +95,16 @@ This would downgrade the performance, since traversing a linked list is O(n).
 - Map similar keys to very different hash values;
 - Uses fast operations.
 
+# Q&A:
 
+## A map/dictionary is created and the following key-value pairs are added in the following order: {"a" : 2}, {"b": 3}, {"a", 4}, {"c", 5}. What is the value associated with the key "a"?
+
+Answer: 4. If you add a value to a map/dictionary with a key that already exist, that new value will replace the original value.
+
+##  True or False: A map/dictionary stores values in a specific order.
+
+Answer: False. Generally the values in a map/dictionary are unordered and stored based on their hash values. However, it can be implemented to maintain a particular order (for example, Java's LinkedHashMap, or C# SortedDictionary).
+
+##  What's the Big-O run time for inserting a value into a hash table/dictionary?
+
+Answer: O(1)
