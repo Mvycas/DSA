@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyHashMapApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005a7133a09dc794d915b57462e20eb04b141877")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6975cf4ee4644d62591d113483822e85ba03a649")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyHashMapApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyHashMapApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
