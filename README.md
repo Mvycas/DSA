@@ -11,3 +11,5 @@ Just working through Google’s DSA course, aiming to deepen my understanding of
 - [Hash Maps & Sets: Understanding Efficient Data Structures](./HashTables/hashMapsAndSets.mdx)
 
 ## Exercises:
+
+- [Two Sum | Solution with HashMap (Csharp)](./DSAExercises/TwoSum/TwoSum-WriteUp.mdx)
