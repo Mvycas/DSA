@@ -1,0 +1,15 @@
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.AssemblyInfoInputs.cache
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.AssemblyInfo.cs
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.csproj.CoreCompileInputs.cache
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.sourcelink.json
+/Users/martynas/Desktop/DSA/DSAExercises/bin/Debug/net8.0/DSAExercises
+/Users/martynas/Desktop/DSA/DSAExercises/bin/Debug/net8.0/DSAExercises.deps.json
+/Users/martynas/Desktop/DSA/DSAExercises/bin/Debug/net8.0/DSAExercises.runtimeconfig.json
+/Users/martynas/Desktop/DSA/DSAExercises/bin/Debug/net8.0/DSAExercises.dll
+/Users/martynas/Desktop/DSA/DSAExercises/bin/Debug/net8.0/DSAExercises.pdb
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.dll
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/refint/DSAExercises.dll
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.pdb
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/DSAExercises.genruntimeconfig.cache
+/Users/martynas/Desktop/DSA/DSAExercises/obj/Debug/net8.0/ref/DSAExercises.dll
