@@ -1,4 +1,4 @@
-def two_sum_sliding_window(numbers: list[int], target: int):
+def two_sum_two_pointers(numbers: list[int], target: int):
 
     left, right = 0, len(numbers) - 1
 
